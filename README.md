@@ -1,1 +1,1 @@
-tekstgit
+tekst
