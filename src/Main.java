@@ -16,6 +16,9 @@ public class Main {
         ///
         int n=5;
             System.out.println(n);
+
+            int b = 10;
+            System.out.println(b);
         }
     }
 }
