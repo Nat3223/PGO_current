@@ -22,6 +22,9 @@ public class Main {
 
             int c =10;
             System.out.println(c);
+
+            int d = 33;
+            System.out.println(d);
         }
     }
 }
