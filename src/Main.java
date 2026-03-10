@@ -19,6 +19,9 @@ public class Main {
 
             int b = 10;
             System.out.println(b);
+
+            int c =10;
+            System.out.println(c);
         }
     }
 }
